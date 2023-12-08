@@ -3,6 +3,7 @@
   <div id="app">
     <ProductList />
   </div>
+
 </template>
 
 <script>
